@@ -1,0 +1,60 @@
+body {
+    background-image: url(../imgmade/ttt.png);
+    width: 100%;
+}
+.login{
+    display: flex;
+}
+.usuario{
+    background-image: url(../imgmade/fundo\ embasado.png);
+    margin-left: 15%;
+    margin-top: 5%;
+    width: 300px;
+    height: 500px;
+    border-radius: 0px;
+}
+.usuario button{
+    margin: 20px 20px;
+    text-transform: uppercase;
+    border-radius: 329px;
+    border-color: aliceblue;
+    border: 20;
+    cursor: pointer;
+    font-size: 80%;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: #8a31833b;
+    margin-bottom: 16px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 16px 10px;
+    margin-left: 13%;
+    margin-top: 12%; 
+}
+.usuario button a {
+    color: aliceblue;
+}
+.usuario1{
+    background-image: url(../imgmade/fundo\ embasado.png);
+    width: 500px;
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 0%;
+}
+form{
+    margin-top: 6%;
+    margin-left: 10%;
+}
+form label{
+    margin-top: 26%;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+form input{
+    width: 300px;
+    height: 30px;   
+}
+form .submit{
+    margin-top: 12%;  
+}

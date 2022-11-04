@@ -1,0 +1,41 @@
+body {
+    background-image: url(../imgmade/ttt.png);
+    width: 100%;
+}
+.usuario{
+    background-image: url(../imgmade/ttt.png);
+    margin-left: 28%;
+    margin-right: 30%;
+    margin-top: 5%;
+    width: 600px;
+    height: 500px;
+    border-radius: 39px;
+}
+.usuario img{
+    height: 200px;
+    width: 200px;
+    margin-left: 33%;
+    margin-top: 12%;
+    border-radius: 329px;
+}
+.usuario button{
+    margin: 20px 20px;
+    text-transform: uppercase;
+    border-radius: 329px;
+    border-color: aliceblue;
+    border: 20;
+    cursor: pointer;
+    font-size: 80%;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: #8a31833b;
+    margin-bottom: 16px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 16px 110px;
+    margin-left: 26%;
+    margin-top: 7%; 
+}
+.usuario button a {
+    color: aliceblue;
+}
